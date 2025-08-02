@@ -1,1 +1,10 @@
-
+astapi
+uvicorn
+pydantic
+rdkit-pypi
+numpy<2
+Pillow
+pubchempy
+scikit-learn
+transformers
+torch
